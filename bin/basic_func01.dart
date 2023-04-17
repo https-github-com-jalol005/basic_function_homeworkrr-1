@@ -3,7 +3,7 @@
 //  Return the value 0
 
 int func(){
-    return 0;
+    return  0;
 }
 void main() {
     print(func());
