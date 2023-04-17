@@ -4,7 +4,7 @@
 
 //  Return the negative value of a.
 int func(int a){
-    return -a;
+    return  -a;
 }
 void main() {
     print(func(33));
