@@ -4,7 +4,7 @@
 
 //  Return the value a.
 String func(String a){
-    return 'my name is '+a;
+    return 'my name  is '+a;
 }
 void main() {
     print(func('mirjalol'));
