@@ -4,7 +4,7 @@
 
 //  decrease the value of a to one and return
 int func(int a){
-    return a-1;
+    return  a-1;
 }
 void main() {
     print(func(44));
