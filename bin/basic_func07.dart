@@ -3,4 +3,9 @@
 //  Create function arguments a.
 
 //  Return the value a.
-void main() {}
+String func(String a){
+    return 'my name is '+a;
+}
+void main() {
+    print(func('mirjalol'));
+}
