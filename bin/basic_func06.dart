@@ -2,7 +2,7 @@
 
 // Return the value String type.
 String func() {
-    return "mirjalol  2005";
+    return "mirjalol 2005";
 }
 void main() {
     print(func());
